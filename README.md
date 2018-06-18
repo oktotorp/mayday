@@ -1,17 +1,17 @@
 # mayday
 
 # Hello!
+<p>Hello látogató</p>
+<p>Magyar nyelven tervezem az itteni projektemet elkészíteni. Aki véletlen ide talál azt üdvözlöm!</P>
 
-Magyar nyelven tervezem az itteni projektemet elkészíteni. Aki véletlen ide talál azt üdvözlöm!
+<h3>C</h3>
 
-C
-<p>
-Bash
-CTRL+ALT+T
+<h3>Bash<h3>
+<p>CTRL+ALT+T<br>
 echo $SHELL
 </p>
-!/bin/bahs
+<pre>!/bin/bahs</pre>
 
-Python
+<h3>Python</h3>
 
 Leírások:...
