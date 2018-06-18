@@ -4,7 +4,7 @@
 
 <h3>C</h3>
 
-<h3>Bash<h3>
+<h3>Bash</h3>
 CTRL+ALT+T<br>
 echo $SHELL
 chmod +x or 755 file name
