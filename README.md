@@ -11,6 +11,22 @@ chmod +x or 755 file name
 
 <pre>!#/bin/bash</pre>
 
-<h3>Python</h3>
+<h3>Linux</h3>
+<h4>iptables<h4>
+<p>
+-A utolso<br>
+-I elso<br>
+-s kit<br>
+-j mit<br>
+-p port<br>
+#kitiltani valakit<br>
+iptables -A INPUT -s 192.168.1.1 -j DROP<br>
+#az egesz halozatot tiltani, hogy ne tudjanak emailt kuldeni<br>
+iptables -A INPUT -s 192.168.1.1/24 -p tcp --destination-port 25 -j DROP<br>
+#engedelyezni ezt mindeg az elso helyre rakjuk<br>
+iptables -I INPUT -s 192.168.1.1 -j ACCEPT<br>
+#torles<br>
+iptables -D INPUT 3<br>
+</p>
 
 
