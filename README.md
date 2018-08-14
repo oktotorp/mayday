@@ -9,7 +9,7 @@ CTRL+ALT+T<br>
 echo $SHELL<br>
 chmod +x or 755 file name
 
-<pre>!/bin/bahs</pre>
+<pre>!#/bin/bash</pre>
 
 <h3>Python</h3>
 
