@@ -14,6 +14,9 @@ chmod +x or 755 file name
 <h3>Linux</h3>
 <h4>iptables<h4>
 <p>
+INPUT<br>
+FORWARD<br>
+OUTPUT<br>
 -A utolso<br>
 -I elso<br>
 -s kit<br>
